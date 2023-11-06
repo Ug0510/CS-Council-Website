@@ -1,0 +1,308 @@
+[
+    {
+     "Course Name": "Photoshop",
+     "Course Id": "photoshop",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Introduction To Photoshop Tools And Interface, Image Editing And Retouching Techniques, Working With Layers And Masks, Color Correction And Adjustments, Creating And Manipulating Text, Image Composition And Manipulation,Hands-on Project , Product Branding , Social Media Post Designing, Ads Designing"
+    },
+    {
+     "Course Name": "Coreldraw",
+     "Course Id": "coreldraw",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Introduction To Coreldraw Tools And Workspace, Creating And Editing Vector Graphics, Working With Shapes, Lines, And Curves, Typography And Text Formatting, Color Management And Fills,Full Length Projects"
+    },
+    {
+     "Course Name": "Filmora",
+     "Course Id": "filmora",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Introduction To Video Editing Concepts, Filmora Interface And Basic Editing Tools, Cutting, Trimming, And Merging Video Clips, Applying Visual Effects And Filters, Adding Transitions And Overlays, Working With Audio And Sound Effects, Hands-on Projects "
+    },
+    {
+     "Course Name": "Adobe Premier Pro",
+     "Course Id": "adobepremierpro ",
+     "Course Duration": "4 months",
+     "Course Syllabus": "Introduction To Video Editing With Adobe Premiere Pro, Importing And Organizing Media Files, Timeline Editing And Working With Multiple Tracks, Applying Video And Audio Effects, Color Correction And Grading, Exporting And Rendering Final Projects"
+    },
+    {
+     "Course Name": "Adobe Illustrator",
+     "Course Id": "adobeillustrator",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Introduction To Vector Graphics And Adobe Illustrator, Creating And Editing Vector Shapes And Paths, Working With Colors, Gradients, And Patterns, Typography And Text Manipulation, Drawing And Painting Techniques, Creating Logos And Illustrations,Hands-on Projects, Brand Elements Desiging, Social Media Post Designing"
+    },
+    {
+     "Course Name": "Adobe After Effects",
+     "Course Id": "adobeaftereffects",
+     "Course Duration": "6 months",
+     "Course Syllabus": "Introduction To Motion Graphics And Adobe After Effects, Working With Compositions And Layers, Applying Visual Effects And Animations, Keyframing And Motion Tracking, Working With Masks And Mattes, Adding And Editing Audio, Hands-on Projects"
+    },
+    {
+     "Course Name": "Canva",
+     "Course Id": "canva",
+     "Course Duration": "2 months",
+     "Course Syllabus": "Introduction To Canva'S Design Tools And Templates, Creating Graphics For Social Media, Designing Presentations And Infographics, Working With Branding And Visual Identity, Collaborating And Sharing Designs"
+    },
+    {
+     "Course Name": "Figma",
+     "Course Id": "figma",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Introduction To Figma'S Design Interface And Tools, Creating And Editing Design Components, Collaborative Design And Prototyping, Designing Responsive Interfaces, Working With Design Libraries And Assets, Projper Web Designs, Full Length Projects "
+    },
+    {
+     "Course Name": "Ms Word",
+     "Course Id": "msword",
+     "Course Duration": "1 month",
+     "Course Syllabus": "Introduction To Microsoft Word Interface And Features, Formatting And Styling Text, Working With Paragraphs And Page Layout, Inserting And Formatting Images And Graphics, Creating Tables And Managing Data, Collaborative Editing And Review Tools"
+    },
+    {
+     "Course Name": "Ms Powerpoint ",
+     "Course Id": "mspowerpoint ",
+     "Course Duration": "1 month",
+     "Course Syllabus": "Introduction To Microsoft Powerpoint Interface And Features, Creating And Formatting Slides, Adding Images, Videos, And Audio To Presentations, Applying Slide Transitions And Animations, Collaborative Editing And Presenting Skills"
+    },
+    {
+     "Course Name": "Ms Excel",
+     "Course Id": "msexcel",
+     "Course Duration": "1 month",
+     "Course Syllabus": "Introduction To Microsoft Excel Interface And Basic Functions, Working With Worksheets And Data Entry, Formulas And Functions For Calculations, Formatting And Styling Data, Data Analysis And Visualization Tools"
+    },
+    {
+     "Course Name": "Advance Excel",
+     "Course Id": "advanceexcel",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Advanced Excel Functions And Formulas, Data Validation And Conditional Formatting, Pivot Tables And Data Analysis Techniques, Macros And Automation In Excel"
+    },
+    {
+     "Course Name": "C Programming",
+     "Course Id": "cbasic",
+     "Course Duration": "1 month",
+     "Course Syllabus": "Introduction To The C Programming Language, Data Types And Variables, Input And Output Operations, Conditional Statements And Loops, Functions And Modular Programming, Arrays And Strings, Pointers And Memory Management, File Handling And I\/O Operations, Introduction To Data Structures And Algorithms, Debugging And Error Handling In C"
+    },
+    {
+     "Course Name": "C++ Programming",
+     "Course Id": "cppbasic",
+     "Course Duration": "1 month",
+     "Course Syllabus": "Introduction To C++ Programming Language, Variables, Data Types, And Operators, Control Flow Statements (If-Else, Loops), Functions And Parameter Passing, Arrays And Strings, Object-Oriented Programming Basics"
+    },
+    {
+     "Course Name": "C#",
+     "Course Id": "chashbasic",
+     "Course Duration": "1 month",
+     "Course Syllabus": "Introduction To C# Programming Language, Variables, Data Types, And Operators, Control Flow Statements (If-Else, Loops), Functions And Parameter Passing, Arrays And Collections, Object-Oriented Programming Basics"
+    },
+    {
+     "Course Name": "Python",
+     "Course Id": "pythonbasic",
+     "Course Duration": "1 month",
+     "Course Syllabus": "Introduction To Python Programming Language, Variables, Data Types, And Operators, Control Flow Statements (If-Else, Loops), Functions And Parameter Passing, Lists, Tuples, And Dictionaries, File Handling And Modules"
+    },
+    {
+     "Course Name": "Java",
+     "Course Id": "javabasic",
+     "Course Duration": "1 month",
+     "Course Syllabus": "Introduction To Java Programming Language, Variables, Data Types, And Operators, Control Flow Statements (If-Else, Loops), Functions And Parameter Passing, Arrays And Collections, Object-Oriented Programming Basics"
+    },
+    {
+     "Course Name": "C Advance",
+     "Course Id": "cadvance",
+     "Course Duration": "6 months",
+     "Course Syllabus": "Advanced Topics In C Programming Language, Pointers And Memory Management, File I\/O And Error Handling, Dynamic Memory Allocation, Data Structures (Linked Lists, Stacks, Queues), Algorithms And Sorting Techniques"
+    },
+    {
+     "Course Name": "C++ Advance",
+     "Course Id": "cppadvance",
+     "Course Duration": "6 months",
+     "Course Syllabus": "Advanced Topics In C++ Programming Language, Templates And Generic Programming, Object-Oriented Programming Concepts (Inheritance, Polymorphism), Exception Handling And Error Management, Standard Template Library (Stl), Advanced Data Structures And Algorithms"
+    },
+    {
+     "Course Name": "C# Advance\n",
+     "Course Id": "chashadvance",
+     "Course Duration": "6 months",
+     "Course Syllabus": "Advanced Topics In C# Programming Language, Linq (Language Integrated Query), Multithreading And Asynchronous Programming, Windows Forms Or Wpf (Windows Presentation Foundation), Database Programming With Ado.Net, Advanced Debugging And Error Handling"
+    },
+    {
+     "Course Name": "Python Advance",
+     "Course Id": "pythonadvance",
+     "Course Duration": "6 months",
+     "Course Syllabus": "Advanced Topics In Python Programming Language, Object-Oriented Programming Principles In Python, File Handling And Advanced I\/O Operations, Database Programming With Python, Web Scraping And Working With Apis, Gui (Graphical User Interface) Development"
+    },
+    {
+     "Course Name": "Css",
+     "Course Id": "cssbasic",
+     "Course Duration": "1 month",
+     "Course Syllabus": "Introduction To Css, Css Box Model, Css Text And Fonts, Css Colors And Backgrounds, Css Layout And Positioning, Css Flexbox, Css Grid, Css Transitions And Animations"
+    },
+    {
+     "Course Name": "Css Advance",
+     "Course Id": "cssadvance",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Responsive Web Design, Advanced Selectors, CSS Preprocessors, CSS Architecture and Organization, CSS Variables, Advanced Layout Techniques, Advanced Transitions and Animations, CSS Blend Modes and Filters, Customizing Form Styling, CSS Optimization"
+    },
+    {
+     "Course Name": "Javascript",
+     "Course Id": "jsbasic",
+     "Course Duration": "1 month",
+     "Course Syllabus": "Introduction To Javascript, Javascript Fundamentals, Dom Manipulation, Javascript Functions, Javascript Arrays And Objects, Asynchronous Javascript, Javascript And The Browser, Javascript Libraries And Frameworks"
+    },
+    {
+     "Course Name": "Advance Javascript",
+     "Course Id": "jsadvance",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Advanced JavaScript Fundamentals, Functional Programming in JavaScript, Asynchronous JavaScript, JavaScript Design Patterns, JavaScript Modules and Bundlers, Testing and Debugging JavaScript, JavaScript Performance Optimization, JavaScript Frameworks and Libraries, JavaScript and Modern Web APIs, JavaScript Security"
+    },
+    {
+     "Course Name": "PHP",
+     "Course Id": "php",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Introduction To Php, Php Control Structures, Php Functions And Arrays, Php Forms And User Input, Php Database Connectivity, Php File Handling And Manipulation, Php Object-Oriented Programming (Oop), Php Web Development"
+    },
+    {
+     "Course Name": "Kotlin",
+     "Course Id": "kotlin",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Introduction To Kotlin, Basic Syntax And Variables, Control Flow And Loops, Functions And Lambdas, Object-Oriented Kotlin, Collections And Generics, Coroutines And Concurrency"
+    },
+    {
+     "Course Name": "Android Development",
+     "Course Id": "android ",
+     "Course Duration": "9 months",
+     "Course Syllabus": "Introduction To Android, Setting Up Android Development Environment, Android Studio And Project Structure, Activities And Intents, User Interface Design, Layouts And Views, Fragments And Navigation, Data Storage And Persistence, Networking And Web Services, Working With Apis, Background Processing And Multithreading, Firebase Integration, Publishing Android Applications"
+    },
+    {
+     "Course Name": "Mern Stack",
+     "Course Id": "mern",
+     "Course Duration": "9 months",
+     "Course Syllabus": "Introduction To Mern Stack, Mongodb Fundamentals, Express.Js Framework, Node.Js Backend Development, React.Js Frontend Development, Full-Stack Application Development, Restful Apis, Authentication And Authorization, Database Integration, Deployment And Hosting"
+    },
+    {
+     "Course Name": "Mean Stack",
+     "Course Id": "mean",
+     "Course Duration": "9 months",
+     "Course Syllabus": "Introduction To The Mean Stack, Mongodb (Data Modeling, Crud Operations), Express.Js (Routing, Middleware, Templating Engines), Angular (Components, Directives, Services), Node.Js (Event Handling, File Systems), Restful Api Development, Authentication And Authorization, Real-Time Web Applications With Socket.Io, Deployment And Devops, Testing And Debugging, Mean Stack Project Development. "
+    },
+    {
+     "Course Name": "Full Stack Development",
+     "Course Id": "fullstack ",
+     "Course Duration": "12 months",
+     "Course Syllabus": "Front-End Development, Html, Css, And Javascript Fundamentals, Responsive Web Design, Ui\/Ux Principles And Best Practices, Front-End Frameworks, Back-End Development, Server-Side Programming Languages , Web Servers, Api Design And Development, Database Management And Integration, Version Control, Deployment Strategies, Testing And Debugging, Security And Authentication, Performance Optimization, Project Management And Collaboration Tools"
+    },
+    {
+     "Course Name": "Website Development",
+     "Course Id": "website ",
+     "Course Duration": "6 months",
+     "Course Syllabus": "Html Fundamentals, Css Fundamentals, Responsive Web Design, Javascript For Web Development, Front-End Frameworks, Web Hosting And Deployment"
+    },
+    {
+     "Course Name": "Ui Ux Designing",
+     "Course Id": "uiux",
+     "Course Duration": "6 months",
+     "Course Syllabus": "Introduction To Ux\/Ui Design, User Research And Analysis, Information Architecture, Wireframing And Prototyping, Visual Design Principles, User Interface (Ui) Design, User Experience (Ux) Design, Usability Testing, Design Tools And Software"
+    },
+    {
+     "Course Name": "Sql",
+     "Course Id": "sql",
+     "Course Duration": "2 months",
+     "Course Syllabus": "Introduction To Sql, Database Design, Sql Queries, Data Manipulation Language (Dml), Data Definition Language (Ddl), Data Control Language (Dcl), Data Integrity And Constraints, Joins And Subqueries, Views, Stored Procedures, Indexing"
+    },
+    {
+     "Course Name": "Mysql",
+     "Course Id": "mysql",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Introduction To Mysql, Database Design, Sql Queries, Data Manipulation Language (Dml), Data Definition Language (Ddl), Data Control Language (Dcl), Data Integrity And Constraints, Joins And Subqueries, Views, Stored Procedures, Indexing"
+    },
+    {
+     "Course Name": "Mongo Db",
+     "Course Id": "mongodb",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Introduction To Mongodb, Database Design, Data Modeling, Crud Operations, Querying Data, Aggregation Framework, Indexing And Performance Optimization, Data Replication And Sharding, Backup And Recovery, Security And User Authentication"
+    },
+    {
+     "Course Name": "No Sql",
+     "Course Id": "nosql",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Introduction To Nosql Databases, Comparison With Sql Databases, Types Of Nosql Databases (Key-Value, Document, Columnar, Graph), Data Modeling In Nosql, Crud Operations, Querying And Indexing, Scalability And High Availability, Data Replication And Sharding, Backup And Recovery, Security And Authentication"
+    },
+    {
+     "Course Name": "Flask",
+     "Course Id": "flask",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Introduction To Flask Framework, Setting Up Flask Environment, Routing And Url Handling, Templates And Jinja2, Handling Forms, Working With Databases (E.G., Sql, Nosql), User Authentication And Authorization, Restful Api Development, Deployment And Hosting"
+    },
+    {
+     "Course Name": "Django",
+     "Course Id": "django",
+     "Course Duration": "6 months",
+     "Course Syllabus": "Introduction To Django Framework, Setting Up Django Environment, Models And Databases (E.G., Sqlite, Postgresql), Admin Interface, Views And Templates, Forms And User Input Handling, Working With Static And Media Files, User Authentication And Authorization, Restful Api Development, Handling Emails, Deployment And Hosting"
+    },
+    {
+     "Course Name": "Bootstrap",
+     "Course Id": "bootstrap",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Introduction To Bootstrap, Setting Up Bootstrap Environment, Responsive Web Design With Bootstrap Grid System, Styling Elements With Bootstrap Classes, Bootstrap Components (E.G., Navbar, Carousel, Modal), Customizing And Extending Bootstrap, Integrating Bootstrap With Other Frameworks And Libraries"
+    },
+    {
+     "Course Name": "Laravel",
+     "Course Id": "laravel",
+     "Course Duration": "1 month",
+     "Course Syllabus": "Introduction To Laravel Framework, Setting Up Laravel Environment, Routing And Controllers, Views And Blade Templates, Models And Databases (E.G., Mysql, Postgresql), Migrations And Database Seeding, Authentication And Authorization, Form Validation And Error Handling, Working With Apis, File Uploads And Storage, Caching And Performance Optimization, Testing And Debugging, Deployment And Hosting"
+    },
+    {
+     "Course Name": "Tailwind",
+     "Course Id": "tailwind",
+     "Course Duration": "1 month",
+     "Course Syllabus": "Introduction To Tailwind Css, Setting Up Tailwind Environment, Utility Classes And Responsive Design, Styling Elements With Tailwind, Customizing And Extending Tailwind, Working With Layouts And Components, Optimizing Css With Purgecss, Integrating Tailwind With Javascript Frameworks (E.G., React, Vue), Advanced Techniques And Best Practices"
+    },
+    {
+     "Course Name": "React",
+     "Course Id": "react",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Introduction To React, Setting Up React Environment, Jsx Syntax And Components, State And Props, Handling Events, Working With Forms And User Input, React Router For Navigation, Lifecycle Methods, Managing State With Hooks, Working With Apis And Asynchronous Data, Styling With Css-In-Js Libraries, React Context For State Management, Error Handling And Debugging, Testing React Components, Deployment Strategies"
+    },
+    {
+     "Course Name": "Angular",
+     "Course Id": "angular",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Introduction To Angular, Setting Up Angular Environment, Components And Templates, Data Binding And Interpolation, Directives And Pipes, Forms And Validation, Services And Dependency Injection, Routing And Navigation, Http Requests And Restful Apis, Angular Modules And Lazy Loading, State Management With Ngrx, Unit Testing With Jasmine And Karma, Deployment And Production Optimizations"
+    },
+    {
+     "Course Name": "Node",
+     "Course Id": "node",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Introduction To Node.Js (Overview And Features, Role In Web Development, Development Environment Setup), Javascript Refresher (Fundamentals, Asynchronous Programming Concepts, Modules And Packages), Node.Js Core Modules (File Systems, Streams And Buffers, Event Handling), Web Development With Node.Js (Http Servers And Request Handling, Routing And Middleware Concepts, Express.Js), Working With Databases (Database Connections, Crud Operations, Object-Relational Mapping), Asynchronous Programming And Promises (Non-Blocking I\/O, Callbacks And Promises, Async\/Await), Testing And Debugging (Unit Testing, Testing Frameworks, Debugging Techniques), Deploying Node.Js Applications (Deployment Options, Production Environment Configuration, Performance Optimization, Security Best Practices)."
+    },
+    {
+     "Course Name": "Express ",
+     "Course Id": "express",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Introduction To Express (Overview And Features, Role In Web Development, Development Environment Setup), Building Web Applications With Express (Routes And Request Handling, Http Methods, Express Middleware), Templating Engines (Introduction, Integration With Express, Dynamic Views), Express Routing (Modular Route Handlers, Route Parameters And Query Parameters, Form Submissions And File Uploads), Error Handling And Validation (Error Handling Middleware, User Input Validation, Error Display), Authentication And Security (User Authentication And Authorization, Password Hashing And Encryption, Middleware For Route Protection), Database Integration (Database Connections, Crud Operations, Object-Relational Mapping), Restful Api Development (Designing And Implementing Apis, Authentication And Validation, Consuming External Apis), Deployment And Production Considerations (Aws Elastic Beanstalk, Cloudformation, Opsworks, Cli)."
+    },
+    {
+     "Course Name": "Wordpress",
+     "Course Id": "wordpress",
+     "Course Duration": "1 month",
+     "Course Syllabus": "Introduction To Wordpress (Overview And Features, Wordpress Ecosystem, Installing Wordpress), Wordpress Basics (Wordpress Dashboard, Posts, Pages, Media), Wordpress Themes (Selecting And Installing Themes, Customization With Customizer, Child Themes), Wordpress Plugins (Understanding Plugins, Installation And Configuration, Custom Plugin Development), Customizing Wordpress (Wordpress Hooks, Template Modification, Wordpress Loop), Wordpress Site Management (User Roles And Permissions, Site Settings, Seo Optimization), Working With Advanced Wordpress Features (Custom Post Types And Taxonomies, Custom Fields And Meta Boxes, Wordpress Rest Api), Wordpress Security And Performance (Security Best Practices, Performance Optimization, Backup And Restoration)."
+    },
+    {
+     "Course Name": "Digital Marketing",
+     "Course Id": "digitalmarketing",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Introduction To Digital Marketing (Overview And Importance, Digital Marketing Channels), Market Research And Analysis, Website Planning And Development (Domain And Hosting, Website Design And Content Creation), Search Engine Optimization (Seo), Pay-Per-Click (Ppc) Advertising, Social Media Marketing, Email Marketing, Content Marketing, Mobile Marketing, Online Advertising (Display And Video Advertising), Analytics And Tracking, Conversion Rate Optimization (Cro), Digital Marketing Strategy And Planning. "
+    },
+    {
+     "Course Name": "Marketing",
+     "Course Id": "marketing",
+     "Course Duration": "3 months",
+     "Course Syllabus": "Introduction To Marketing (Overview And Importance, Marketing Mix), Market Research And Analysis, Consumer Behavior, Marketing Strategy Development, Product And Brand Management, Pricing And Revenue Management, Distribution And Supply Chain Management, Integrated Marketing Communications (Advertising, Public Relations, Sales Promotion), Digital Marketing, Social Media Marketing, Marketing Analytics, International Marketing, Ethical And Sustainable Marketing. "
+    },
+    {
+     "Course Name": "HTML",
+     "Course Id": "html",
+     "Course Duration": "1 month",
+     "Course Syllabus": "Introduction to HTML, HTML Document Structure, Text Formatting and Semantics, Hyperlinks and Navigation, Images and Multimedia, Forms and User Input, Tables and Data Presentation, Multimedia and Embedding, HTML5 APIs and Features, Best Practices and Code Organization"
+    },
+    {
+     "Course Name": "Java Advance",
+     "Course Id": "javaadvance",
+     "Course Duration": "4 months",
+     "Course Syllabus": "Introduction to Java, Variables and Data Types, Operators and Expressions, Control Flow Statements, Arrays and Strings, Object-Oriented Programming (OOP) Concepts, Packages and Access Modifiers, Exception Handling, File I/O and Serialization, Java Collections Framework, Generics, Lambda Expressions and Streams, Threads and Concurrency, Java Database Connectivity (JDBC), JavaFX Basics (Graphical User Interface), Networking in Java, Java Best Practices, Java 8+ New Features (Time permitting)"
+    }
+   ]
